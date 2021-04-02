@@ -62,9 +62,9 @@ public static void generatingReposrtCard(String name, int noOfSubject, String[] 
     }    
         System.out.println("------------------------------------------");
         
-        float avegage=((float)total)/noOfSubject;
-        //System.out.println("Total: " + total + "\t\t     Average: " + avegage);
-        System.out.printf("Total: %d \t\t     Average: %.2f \n", total, avegage);
+        float average=((float)total)/noOfSubject;
+        //System.out.println("Total: " + total + "\t\t     Average: " + average);
+        System.out.printf("Total: %d \t\t     Average: %.2f \n", total, average);
         
         System.out.println("------------------------------------------");
               
